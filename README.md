@@ -6,6 +6,6 @@
 
 ## ResNet_PreVsPost_tf.py
 Pythonで実行するコード
-'''
+```
 python ResNet_PreVsPost_tf.py
-'''
+```
